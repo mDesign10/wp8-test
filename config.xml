@@ -24,7 +24,6 @@
     <gap:plugin name="cordova-plugin-inappbrowser" />
     <gap:plugin name="cordova-plugin-network-information" />
     <gap:plugin name="cordova-plugin-splashscreen" />
-    <gap:plugin name="cordova-plugin-vibration" />
     <gap:plugin name="org.apache.cordova.statusbar" spec="0.1.4" source="pgb" />
 
     <gap:plugin name="com.telerik.plugins.healthkit" />
