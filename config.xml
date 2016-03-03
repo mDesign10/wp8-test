@@ -35,7 +35,7 @@
 
     <gap:plugin name="com.commontime.cordova.thumbnail" source="npm" />
     <gap:plugin name="com.commontime.cordova.beacon" source="npm" />
-    <gap:plugin name="com.commontime.cordova.audio" source="npm" />
+    <gap:plugin name="com.commontime.cordova.audio" version="0.5.0" source="npm" />
     <gap:plugin name="com.commontime.cordova.splitscreen" source="npm" />
 
     <preference name="phonegap-version" value="cli-6.0.0" />
