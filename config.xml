@@ -34,6 +34,7 @@
     <gap:plugin name="cordova-plugin-camera" />
 
     <gap:plugin name="com.commontime.cordova.thumbnail" source="npm" />
+    <gap:plugin name="com.commontime.cordova.audio" source="npm" />
     <gap:plugin name="com.commontime.cordova.beacon" source="npm" />
     <gap:plugin name="com.commontime.cordova.splitscreen" source="npm" />
 
