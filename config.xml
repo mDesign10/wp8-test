@@ -48,6 +48,13 @@
     <preference name="android-build-tool" value="gradle" />
     <preference name="Orientation" value="all" />
     <preference name="android-windowSoftInputMode" value="adjustResize" />
+    
+    <preference name="windows-phone-target-version" value="8.1" />
+    <preference name="Windows.Phone" value="8.1" />
+	<preference name="WindowsDefaultUriPrefix" value="ms-appx://" />
+	<preference name="Windows.Phone-MaxVersionTested" value="8.1" />
+	<preference name="Windows.Phone-MaxVersion" value="8.1" />
+	
     <icon src="icon.png" />
     <gap:splash src="portrait-xhdpi.png" gap:platform="android" gap:qualifier="port-xhdpi" />
     <gap:splash src="landscape-xhdpi.png" gap:platform="android" gap:qualifier="land-xhdpi" />
